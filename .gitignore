@@ -1,0 +1,8 @@
+packages/server/node_modules
+packages/.env
+packages/server/src/images/
+packages/server/src/files/
+
+packages/client/node_modules
+node_modules/
+
